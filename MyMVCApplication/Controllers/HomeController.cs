@@ -26,5 +26,17 @@ namespace MyMVCApplication.Controllers
 
             return View();
         }
+        public ActionResult Services()
+        {
+            ViewBag.Message = "Your service page.";
+
+            return View();
+        }
+        public ActionResult Random()
+        {
+            ViewBag.Message = "Your Random page.";
+
+            return View();
+        }
     }
 }

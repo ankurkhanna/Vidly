@@ -69,8 +69,7 @@ C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\bin\System.Web.
 C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\bin\Newtonsoft.Json.xml
 C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\bin\Antlr3.Runtime.pdb
 C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\obj\Debug\MyMVCApplication.csproj.CoreCompileInputs.cache
-C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\obj\Debug\MyMVCApplication.csproj.CopyComplete
+C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\obj\Debug\MyMVCApplication.dll
 C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\obj\Debug\MyMVCApplication.pdb
-C:\Users\ankhanna\source\repos\MyMVCApplication\MyMVCApplication\obj\Debug\MyMVCApplication.csprojAssemblyReference.cache
